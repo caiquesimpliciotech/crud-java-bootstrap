@@ -31,6 +31,3 @@ Este é um projeto simples de CRUD (Create, Read, Update, Delete) para gerenciam
    ```bash
    git clone https://github.com/seuUsuario/seuRepositorio.git
    cd seuRepositorio
-
-
-Você também encontra a demo dele 
